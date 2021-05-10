@@ -1,0 +1,16 @@
+D:\c-sharp-practice\class obj\class\bin\Debug\net5.0\class.exe
+D:\c-sharp-practice\class obj\class\bin\Debug\net5.0\class.deps.json
+D:\c-sharp-practice\class obj\class\bin\Debug\net5.0\class.runtimeconfig.json
+D:\c-sharp-practice\class obj\class\bin\Debug\net5.0\class.runtimeconfig.dev.json
+D:\c-sharp-practice\class obj\class\bin\Debug\net5.0\class.dll
+D:\c-sharp-practice\class obj\class\bin\Debug\net5.0\ref\class.dll
+D:\c-sharp-practice\class obj\class\bin\Debug\net5.0\class.pdb
+D:\c-sharp-practice\class obj\class\obj\Debug\net5.0\class.csprojAssemblyReference.cache
+D:\c-sharp-practice\class obj\class\obj\Debug\net5.0\class.GeneratedMSBuildEditorConfig.editorconfig
+D:\c-sharp-practice\class obj\class\obj\Debug\net5.0\class.AssemblyInfoInputs.cache
+D:\c-sharp-practice\class obj\class\obj\Debug\net5.0\class.AssemblyInfo.cs
+D:\c-sharp-practice\class obj\class\obj\Debug\net5.0\class.csproj.CoreCompileInputs.cache
+D:\c-sharp-practice\class obj\class\obj\Debug\net5.0\class.dll
+D:\c-sharp-practice\class obj\class\obj\Debug\net5.0\ref\class.dll
+D:\c-sharp-practice\class obj\class\obj\Debug\net5.0\class.pdb
+D:\c-sharp-practice\class obj\class\obj\Debug\net5.0\class.genruntimeconfig.cache
