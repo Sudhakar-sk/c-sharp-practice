@@ -1,0 +1,16 @@
+D:\c-sharp-practice\constructor\constructor\obj\Debug\net5.0\constructor.csprojAssemblyReference.cache
+D:\c-sharp-practice\constructor\constructor\obj\Debug\net5.0\constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\c-sharp-practice\constructor\constructor\obj\Debug\net5.0\constructor.AssemblyInfoInputs.cache
+D:\c-sharp-practice\constructor\constructor\obj\Debug\net5.0\constructor.AssemblyInfo.cs
+D:\c-sharp-practice\constructor\constructor\obj\Debug\net5.0\constructor.csproj.CoreCompileInputs.cache
+D:\c-sharp-practice\constructor\constructor\bin\Debug\net5.0\constructor.exe
+D:\c-sharp-practice\constructor\constructor\bin\Debug\net5.0\constructor.deps.json
+D:\c-sharp-practice\constructor\constructor\bin\Debug\net5.0\constructor.runtimeconfig.json
+D:\c-sharp-practice\constructor\constructor\bin\Debug\net5.0\constructor.runtimeconfig.dev.json
+D:\c-sharp-practice\constructor\constructor\bin\Debug\net5.0\constructor.dll
+D:\c-sharp-practice\constructor\constructor\bin\Debug\net5.0\ref\constructor.dll
+D:\c-sharp-practice\constructor\constructor\bin\Debug\net5.0\constructor.pdb
+D:\c-sharp-practice\constructor\constructor\obj\Debug\net5.0\constructor.dll
+D:\c-sharp-practice\constructor\constructor\obj\Debug\net5.0\ref\constructor.dll
+D:\c-sharp-practice\constructor\constructor\obj\Debug\net5.0\constructor.pdb
+D:\c-sharp-practice\constructor\constructor\obj\Debug\net5.0\constructor.genruntimeconfig.cache
