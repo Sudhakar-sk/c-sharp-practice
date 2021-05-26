@@ -1,0 +1,16 @@
+D:\c-sharp-practice\string\task-for-practice\obj\Debug\net5.0\task-for-practice.csprojAssemblyReference.cache
+D:\c-sharp-practice\string\task-for-practice\obj\Debug\net5.0\task-for-practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\c-sharp-practice\string\task-for-practice\obj\Debug\net5.0\task-for-practice.AssemblyInfoInputs.cache
+D:\c-sharp-practice\string\task-for-practice\obj\Debug\net5.0\task-for-practice.AssemblyInfo.cs
+D:\c-sharp-practice\string\task-for-practice\obj\Debug\net5.0\task-for-practice.csproj.CoreCompileInputs.cache
+D:\c-sharp-practice\string\task-for-practice\bin\Debug\net5.0\task-for-practice.exe
+D:\c-sharp-practice\string\task-for-practice\bin\Debug\net5.0\task-for-practice.deps.json
+D:\c-sharp-practice\string\task-for-practice\bin\Debug\net5.0\task-for-practice.runtimeconfig.json
+D:\c-sharp-practice\string\task-for-practice\bin\Debug\net5.0\task-for-practice.runtimeconfig.dev.json
+D:\c-sharp-practice\string\task-for-practice\bin\Debug\net5.0\task-for-practice.dll
+D:\c-sharp-practice\string\task-for-practice\bin\Debug\net5.0\ref\task-for-practice.dll
+D:\c-sharp-practice\string\task-for-practice\bin\Debug\net5.0\task-for-practice.pdb
+D:\c-sharp-practice\string\task-for-practice\obj\Debug\net5.0\task-for-practice.dll
+D:\c-sharp-practice\string\task-for-practice\obj\Debug\net5.0\ref\task-for-practice.dll
+D:\c-sharp-practice\string\task-for-practice\obj\Debug\net5.0\task-for-practice.pdb
+D:\c-sharp-practice\string\task-for-practice\obj\Debug\net5.0\task-for-practice.genruntimeconfig.cache
